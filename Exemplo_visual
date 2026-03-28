@@ -1,0 +1,20 @@
+# Exemplo Visual - Selection Sort
+
+Lista inicial:
+[80, 65, 12, 20, 44]
+
+Passo 1:
+O menor elemento é 12, troca com o primeiro da lista -> 80
+[12, 65, 80, 20, 44]
+
+Passo 2:
+O menor elemento é 20, troca com o 65
+[12, 20, 80, 65, 44]
+
+Passo 3:
+O menor elemento é 44, troca com o 80
+[12, 20, 44, 65, 80]
+
+Passo 4:
+O algoritmo percorre a lista novamente, porém como já está ordenada, não ocorre nehuma mudança
+[12, 20, 44, 65, 80]
