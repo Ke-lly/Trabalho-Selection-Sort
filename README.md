@@ -12,11 +12,12 @@ Implementação do algoritmo Selection Sort em Python para o trabalho da discipl
 - Melhor caso: O(n²)
 - Caso médio: O(n²)
 - Pior caso: O(n²)
-## - Espaço:
+## Espaço:
 - Melhor Caso: O(1) Constante
 - Caso Médio: O(1) Constante
 - Pior Caso: O(1) Constante
-- Estável: O algoritimo Selection Sort NÃO é estável
+## Estável: 
+- O algoritimo Selection Sort NÃO é estável
 
 ## Vantagens
 - Simplicidade de implementação: É um dos algoritmos mais fáceis de entender e codificar. Ideal para iniciantes;
